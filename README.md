@@ -49,3 +49,8 @@
 * book_id — идентификатор книги;
 * username — имя автора обзора;
 * text — текст обзора.
+
+# Схема
+
+
+![Image alt](https://github.com/IvanN-16/SQL/blob/main/scheme_1589269096.png)
